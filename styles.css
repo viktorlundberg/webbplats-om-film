@@ -1,0 +1,14 @@
+body{
+  background-color: lightgreen;
+}
+
+ h1{
+   font-size: 27px;
+   font-family: Verdana, sans-serif;
+   color: red;
+ }
+ p{
+   font-size: 19px;
+   font-family: Verdana, serif;
+   color: red;
+ }
